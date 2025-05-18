@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Página-1" id="Ot_-Mr4bFp7TJ5_a9pxv">
+    <mxGraphModel dx="1410" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #fefbfb)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-1" value="NUEVA CONTRASEÑA" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;opacity=70;swimlaneFillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="210" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;INGRESAR NUEVA CONTRASEÑA&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="20" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-3" value="VOLVER A INGRESAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="20" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-4" value="ENVIAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="151" y="231" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4eKaip2sfYWaj7q9AqVW-1" value="&lt;div&gt;CANCELAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="YvgkLhhPr4zb0zmvWF8X-1">
+          <mxGeometry x="23" y="231" width="113" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

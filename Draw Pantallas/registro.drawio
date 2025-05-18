@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Página-1" id="Ot_-Mr4bFp7TJ5_a9pxv">
+    <mxGraphModel dx="1410" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #fefbfb)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-1" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Registro de usuario&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;opacity=70;swimlaneFillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="240" width="382" height="481" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-4" value="NOMBRE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="126" y="55" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-6" value="EMAIL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="126" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-7" value="APELLIDO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="126" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-12" value="DNI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="126" y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-14" value="TELEFONO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="126" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YvgkLhhPr4zb0zmvWF8X-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="YvgkLhhPr4zb0zmvWF8X-1" source="YvgkLhhPr4zb0zmvWF8X-6" target="YvgkLhhPr4zb0zmvWF8X-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RosRnTEpqPOQrj-JuH-1" value="ACEPTAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="40" y="365" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RosRnTEpqPOQrj-JuH-2" value="CANCELAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="210" y="365" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L4RosRnTEpqPOQrj-JuH-12" value="DOMICILIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YvgkLhhPr4zb0zmvWF8X-1" vertex="1">
+          <mxGeometry x="126" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
